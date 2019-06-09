@@ -3,4 +3,4 @@ project(Algorithms)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Algorithms main.cpp ../Breadth_first_search/main.cpp)
+add_executable(Algorithms main.cpp ../Depth_first_search/main.cpp)
